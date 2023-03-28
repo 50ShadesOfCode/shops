@@ -156,7 +156,6 @@ dart_code_metrics:
     - avoid-shrink-wrap-in-lists
     - avoid-double-slash-imports
     - avoid-duplicate-exports
-    - avoid-dynamic
     - avoid-nested-conditional-expressions
     - avoid-non-null-assertion
     - avoid-redundant-async
